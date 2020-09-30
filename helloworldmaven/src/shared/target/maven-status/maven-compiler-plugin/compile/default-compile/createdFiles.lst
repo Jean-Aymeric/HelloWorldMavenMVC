@@ -1,0 +1,6 @@
+shared\controller\ControllerOrder.class
+shared\model\IModel.class
+shared\model\entity\HelloWorld.class
+shared\model\entity\Entity.class
+shared\view\IView.class
+shared\controller\IController.class
